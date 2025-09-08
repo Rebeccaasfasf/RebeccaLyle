@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "rebecca-portfolio-uk",
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    }
+  ]
+}
